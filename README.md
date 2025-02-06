@@ -68,7 +68,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MMM1381&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMM1381&theme=radical" />
+  ![MMM1381's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMM1381&theme=merko&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---
