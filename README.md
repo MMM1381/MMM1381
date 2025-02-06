@@ -13,6 +13,7 @@
 - 📝 Projects in **Medical Image Analysis (Brain Hemorrhage Detection), Financial Data Analysis, Game Development**.
 - 📚 Studying **Electrical Engineering** at **Khajeh Nasir Toosi University of Technology**.
 - 💎 Passionate about **AI in Healthcare, Financial Tech, and Innovative Applications**.
+- 🤖 Currently Working on **Deep reinforcement learning**.
 
 ---
 
